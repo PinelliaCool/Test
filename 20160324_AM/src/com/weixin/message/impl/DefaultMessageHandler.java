@@ -25,7 +25,7 @@ public class DefaultMessageHandler implements IMessageHandler {
 
 	@Override
 	public OutputMessage voiceTypeMsg(InputMessage msg) {
-		// TODO Auto-generated method stub
+		System.out.println("进入声音消息处理方法。。。。。。。。。。");
 		return null;
 	}
 
